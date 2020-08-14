@@ -1,0 +1,188 @@
+1-AUTHOR & BOOK ENTRY
+2-STUDENT ENTRY
+3-ISSUE BOOK
+4-RETURN BOOK
+5-VIEW ALL BOOK
+1
+Enter the Author Name  
+shan
+Enter theEmail ID
+shan@gmail.com
+Enter the Gender  
+m
+Press y for more entries else n
+y
+Enter the Author Name  
+ishaan
+Enter theEmail ID
+ishaan@gmail.com
+Enter the Gender  
+m
+Press y for more entries else n
+y
+Enter the Author Name  
+uttkarsh
+Enter theEmail ID
+uttkarsh@hotmail.com
+Enter the Gender  
+m
+Press y for more entries else n
+n
+Enter Unique Book ID
+1
+Enter the Book Name  
+c++
+Enter the Name of Author  
+ishaan
+Author Found!!
+Enter the Price  
+200
+Enter the Quantity  
+2
+Book[UID 1name=c++ Author[Author[name=ishaan,email=ishaan@gmail.com,gender=m]],price=200.0,qty=2
+Press y for more entries else n
+y
+Enter Unique Book ID
+2
+Enter the Book Name  
+java
+Enter the Name of Author  
+shan
+Author Found!!
+Enter the Price  
+120
+Enter the Quantity  
+5
+Book[UID 2name=java Author[Author[name=shan,email=shan@gmail.com,gender=m]],price=120.0,qty=5
+Press y for more entries else n
+y
+Enter Unique Book ID
+3
+Enter the Book Name  
+pointers
+Enter the Name of Author  
+uttkarsh
+Author Found!!
+Enter the Price  
+140
+Enter the Quantity  
+3
+Book[UID 3name=pointers Author[Author[name=uttkarsh,email=uttkarsh@hotmail.com,gender=m]],price=140.0,qty=3
+Press y for more entries else n
+n
+Press y to Main Menu else n to Exit
+y
+1-AUTHOR & BOOK ENTRY
+2-STUDENT ENTRY
+3-ISSUE BOOK
+4-RETURN BOOK
+5-VIEW ALL BOOK
+2
+Your UID: 0
+Enter your Roll no: 
+2074
+Enter your Name: 
+Vishu
+Press y for more entries else n
+y
+Your UID: 1
+Enter your Roll no: 
+2369
+Enter your Name: 
+Anurag
+Press y for more entries else n
+n
+Press y to Main Menu else n to Exit
+y
+1-AUTHOR & BOOK ENTRY
+2-STUDENT ENTRY
+3-ISSUE BOOK
+4-RETURN BOOK
+5-VIEW ALL BOOK
+5
+Book[UID 1name=c++ Author[Author[name=ishaan,email=ishaan@gmail.com,gender=m]],price=200.0,qty=2
+Book[UID 2name=java Author[Author[name=shan,email=shan@gmail.com,gender=m]],price=120.0,qty=5
+Book[UID 3name=pointers Author[Author[name=uttkarsh,email=uttkarsh@hotmail.com,gender=m]],price=140.0,qty=3
+Press y to Main Menu else n to Exit
+y
+1-AUTHOR & BOOK ENTRY
+2-STUDENT ENTRY
+3-ISSUE BOOK
+4-RETURN BOOK
+5-VIEW ALL BOOK
+3
+Enter your UID:
+1
+Book[UID 1name=c++ Author[Author[name=ishaan,email=ishaan@gmail.com,gender=m]],price=200.0,qty=2
+Book[UID 2name=java Author[Author[name=shan,email=shan@gmail.com,gender=m]],price=120.0,qty=5
+Book[UID 3name=pointers Author[Author[name=uttkarsh,email=uttkarsh@hotmail.com,gender=m]],price=140.0,qty=3
+Enter the Book Name:
+c++
+Book Found!!
+Enter Today's Date in DD/MM/YYYY format 
+27
+02
+2020
+Press y for more books else n
+n
+Press y to Main Menu else n to Exit
+y
+1-AUTHOR & BOOK ENTRY
+2-STUDENT ENTRY
+3-ISSUE BOOK
+4-RETURN BOOK
+5-VIEW ALL BOOK
+3
+Enter your UID:
+1
+Book[UID 1name=c++ Author[Author[name=ishaan,email=ishaan@gmail.com,gender=m]],price=200.0,qty=1
+Book[UID 2name=java Author[Author[name=shan,email=shan@gmail.com,gender=m]],price=120.0,qty=5
+Book[UID 3name=pointers Author[Author[name=uttkarsh,email=uttkarsh@hotmail.com,gender=m]],price=140.0,qty=3
+Enter the Book Name:
+pointers
+Book Found!!
+Enter Today's Date in DD/MM/YYYY format 
+26
+02
+2020
+Press y for more books else n
+n
+Press y to Main Menu else n to Exit
+y
+1-AUTHOR & BOOK ENTRY
+2-STUDENT ENTRY
+3-ISSUE BOOK
+4-RETURN BOOK
+5-VIEW ALL BOOK
+5
+Book[UID 1name=c++ Author[Author[name=ishaan,email=ishaan@gmail.com,gender=m]],price=200.0,qty=1
+Book[UID 2name=java Author[Author[name=shan,email=shan@gmail.com,gender=m]],price=120.0,qty=5
+Book[UID 3name=pointers Author[Author[name=uttkarsh,email=uttkarsh@hotmail.com,gender=m]],price=140.0,qty=2
+Press y to Main Menu else n to Exit
+y
+1-AUTHOR & BOOK ENTRY
+2-STUDENT ENTRY
+3-ISSUE BOOK
+4-RETURN BOOK
+5-VIEW ALL BOOK
+4
+Enter your UID:
+1
+Book[UID 1name=c++ Author[Author[name=ishaan,email=ishaan@gmail.com,gender=m]],price=200.0,qty=1
+Enter Today's Date in DD/MM/YYYY format 
+02
+03
+2020
+Press y to Main Menu else n to Exit
+y
+1-AUTHOR & BOOK ENTRY
+2-STUDENT ENTRY
+3-ISSUE BOOK
+4-RETURN BOOK
+5-VIEW ALL BOOK
+5
+Book[UID 1name=c++ Author[Author[name=ishaan,email=ishaan@gmail.com,gender=m]],price=200.0,qty=2
+Book[UID 2name=java Author[Author[name=shan,email=shan@gmail.com,gender=m]],price=120.0,qty=5
+Book[UID 3name=pointers Author[Author[name=uttkarsh,email=uttkarsh@hotmail.com,gender=m]],price=140.0,qty=3
+Press y to Main Menu else n to Exit
+n
